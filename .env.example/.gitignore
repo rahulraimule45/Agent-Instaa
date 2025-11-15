@@ -1,0 +1,11 @@
+IG_ACCESS_TOKEN=YOUR_IG_ACCESS_TOKEN
+IG_ACCOUNT_ID=YOUR_IG_BUSINESS_ACCOUNT_ID
+GRAPH_API_VERSION=v17.0
+
+
+.env
+.venv
+__pycache__/
+node_modules/
+dist/
+
